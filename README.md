@@ -65,34 +65,34 @@ Mail feature is integrated for:
 > Make sure your screenshot images are placed in a `screenshots/` folder inside the repo.
 
 ### 🔐 Login Page  
-![Login](Screenshots/Login_page_Both.png){: width="500" }
+<img src="Screenshots/Login_page_Both.png" width="500">
 
 ### 🛠️ Mail For New User
-![Admin](Screenshots/Mail_New_User.png){: width="500" }
+<img src="Screenshots/Mail_New_User.png" width="500">
 
 ### 🏠 User Dashboard  
-![Dashboard](Screenshots/User_dashboard.png){: width="500" }
+<img src="Screenshots/User_dashboard.png" width="500">
 
 ### 🧾 Movie Details  
-![Ticket](screenshots/Reservation.png){: width="500" }
+<img src="screenshots/Reservation.png" width="500">
 
 ### 🎟️ Ticket Booking  
-![Booking](Screenshots/Ticket_info.png){: width="500" }
+<img src="Screenshots/Ticket_info.png" width="500">
 
 ### 🛠️ Mail for Confirm Ticket
-![Admin](Screenshots/Confirm_mail.png){: width="500" }
+<img src="Screenshots/Confirm_mail.png" width="500">
 
-### 🛠️ Admin Panel  1
-![Admin](Screenshots/Admin_dashboard.png){: width="500" }
+### 🛠️ Admin Panel 1
+<img src="Screenshots/Admin_dashboard.png" width="500">
 
-### 🛠️ Admin Panel  2
-![Admin](Screenshots/Admin_dashboard_2.png){: width="500" }
+### 🛠️ Admin Panel 2
+<img src="Screenshots/Admin_dashboard_2.png" width="500">
 
-### 🛠️ Admin Panel  3
-![Admin](Screenshots/Admin_dashboard_3.png){: width="500" }
+### 🛠️ Admin Panel 3
+<img src="Screenshots/Admin_dashboard_3.png" width="500">
 
 ### 🛠️ Admin Tickets Reports
-![Admin](Screenshots/Admin_Ticket_reports.png){: width="500" }
+<img src="Screenshots/Admin_Ticket_reports.png" width="500">
 
 ---
 
