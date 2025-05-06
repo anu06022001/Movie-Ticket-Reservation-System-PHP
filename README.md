@@ -84,7 +84,7 @@ Mail feature is integrated for:
 ## 🚀 How to Run
 
 1. Clone or download the repository.
-2. Import the SQL database (`movie_ticket_java.sql` or similar) into **phpMyAdmin**.
+2. Import the SQL database (`db.sql` or similar) into **phpMyAdmin**.
 3. Update your email password (SMTP key) in the mail config section and change localhost for databases connecctions.
 4. Host the project on **XAMPP** or any local server.
 5. Open `index.php` to start using the system.
