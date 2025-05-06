@@ -60,13 +60,13 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['movie_id'], $_POST['s
             $mail->isSMTP();
             $mail->Host = 'smtp.gmail.com';
             $mail->SMTPAuth = true;
-            $mail->Username = 'anu0602kum@gmail.com'; // SMTP username
-            $mail->Password = 'ixzyodfnujhkmdqb'; // SMTP password (use app password for Gmail)
+            $mail->Username = 'add_Here_your_mail_id'; // SMTP username
+            $mail->Password = 'your_key_pass'; // SMTP password (use app password for Gmail)
             $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
             $mail->Port = 465;
 
             // Recipients
-            $mail->setFrom('anu0602kum@gmail.com', 'Admin');
+            $mail->setFrom('add_Here_your_mail_id', 'Admin');
             $mail->addAddress($user['email'], $user['name']); // Fetching user email from the database
 
             // Email content
@@ -119,7 +119,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['movie_id'], $_POST['s
         echo "<p><em>Thank you for choosing our service! Enjoy the show!</em></p>";
         echo "</div>";
 
-        echo "<form action='main.php' method='post'><button type='submit'>Go to Main Page</button></form>";
+        echo "<form action='index.php' method='post'><button type='submit'>Go to Main Page</button></form>";
         echo "<button onclick='printTicket()'>🖨️ Print Ticket </button>";
         echo "</div></center>";
        
