@@ -53,7 +53,7 @@ Mail feature is integrated for:
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: HTML, CSS, Bootstrap  
+- **Frontend**: HTML, CSS, Bootstrap, JQuery  
 - **Backend**: PHP  
 - **Database**: MySQL  
 - **Mailing**: PHPMailer or similar SMTP library (with secure mail key)
@@ -65,7 +65,7 @@ Mail feature is integrated for:
 > Make sure your screenshot images are placed in a `screenshots/` folder inside the repo.
 
 ### 🔐 Login Page  
-![Login](screenshots/login.png)
+![Login](Screenshots/Login_page_Both.png)
 
 ### 🏠 User Dashboard  
 ![Dashboard](screenshots/user_dashboard.png)
