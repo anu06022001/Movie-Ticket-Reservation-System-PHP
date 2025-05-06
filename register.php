@@ -51,12 +51,12 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                     $mail->isSMTP();
                     $mail->Host = 'smtp.gmail.com';
                     $mail->SMTPAuth = true;
-                    $mail->Username = 'anu0602kum@gmail.com';
-                    $mail->Password = 'ixzyodfnujhkmdqb';
+                    $mail->Username = 'add_Here_your_mail_id';
+                    $mail->Password = 'key_pass'; //add your mail key password which is you genereted
                     $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
                     $mail->Port = 465;
 
-                    $mail->setFrom('anu0602kum@gmail.com', 'Admin');
+                    $mail->setFrom('add_Here_your_mail_id', 'Admin');
                     $mail->addAddress($email, $name);
 
                     $mail->isHTML(true);
