@@ -1,4 +1,5 @@
-🎬 Movie Ticket Reservation System
+**🎬 Movie Ticket Reservation System**
+
 This is a Movie Ticket Reservation System developed using PHP, MySQL, HTML, CSS. It allows users to book movie tickets online and provides a powerful admin panel to manage movies, users, showtimes, and ticket reports.
 
 ✨ Features
