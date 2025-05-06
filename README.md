@@ -1,5 +1,4 @@
-**🎬 Movie Ticket Reservation System**
-
+🎬 Movie Ticket Reservation System
 This is a Movie Ticket Reservation System developed using PHP, MySQL, HTML, CSS. It allows users to book movie tickets online and provides a powerful admin panel to manage movies, users, showtimes, and ticket reports.
 
 ✨ Features
@@ -83,17 +82,16 @@ Edit
 
 ### Admin Panel
 ![Admin](screenshots/admin_dashboard.png)
-
 🚀 How to Run
 Clone or download the repository.
 
 Import the SQL database (movie_ticket_java.sql or similar) into phpMyAdmin.
 
-Update your email password in the mail config section of the code and change localhost in databases connection.
+Update your email password in the mail config section of the code.
 
 Host the project on XAMPP or any local server.
 
-Access index.php and begin using the system.
+Access login.php and begin using the system.
 
 📌 Note
 This is a static+dynamic hybrid PHP project, built for academic or learning purposes. No advanced frameworks are used, so it's easy to understand and customize.
